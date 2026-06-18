@@ -67,6 +67,6 @@ export const projects: Project[] = [
         look forward to posting here soon.`,
     tags: ['Shaders', 'Raylib', 'Odin', 'OpenGL'],
     image: odinImg,
-    // links: { github: 'https://github.com/user/epsilon' },
+    links: { github: 'https://github.com/FunkyGeorge/Shaders' },
   },
 ]
